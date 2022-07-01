@@ -68,10 +68,10 @@ button {
 
 .nav {
   justify-items: end;
-  padding: 20px;
+  padding: 25px;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  gap: 5px;
+  gap: 15px;
 
 }
 
@@ -119,34 +119,38 @@ button {
   letter-spacing: 0.5px;
   color: #013A4C;
 }
-#Oneflow {width: 176px;
-    height: 50px;
-    background: #FFD063;
-    border: 1px solid #FFD063;
-    border-radius: 4px;
 
-    font-family: 'Work Sans', 'Times New Roman', serif;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
+#Oneflow {
+  width: 176px;
+  height: 50px;
+  background: #FFD063;
+  border: 1px solid #FFD063;
+  border-radius: 4px;
 
-color: #013A4C;
+  font-family: 'Work Sans', 'Times New Roman', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #013A4C;
 }
-#tour {width: 130px;
-    height: 50px;
-    background: #013A4C;
-    border: 1px solid #013A4C;
-    border-radius: 4px;
-    font-family: 'Work Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
 
-color: #FFFFFF;
+#tour {
+  width: 130px;
+  height: 50px;
+  background: #013A4C;
+  border: 1px solid #013A4C;
+  border-radius: 4px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #FFFFFF;
 
 }
 
@@ -203,6 +207,7 @@ color: #FFFFFF;
 }
 
 #href1 {
+  width: 112px;
   height: 20px;
   left: 9.2%;
   right: 26.44%;
@@ -210,6 +215,7 @@ color: #FFFFFF;
 }
 
 #href2 {
+  width: 45px;
   height: 20px;
   left: 14.95%;
   right: 42.99%;
@@ -217,6 +223,7 @@ color: #FFFFFF;
 }
 
 #href3 {
+  width: 53px;
   height: 20px;
   left: 58.01%;
   right: 31.64%;
@@ -224,6 +231,7 @@ color: #FFFFFF;
 }
 
 #href4 {
+  width: 48px;
   height: 20px;
   left: 74.61%;
   right: 16.02%;
@@ -231,6 +239,7 @@ color: #FFFFFF;
 }
 
 #href5 {
+  width: 34px;
   height: 20px;
   left: 90.23%;
   right: 3.12%;
